@@ -1,0 +1,17 @@
+body {
+    background-color: #2D033B;
+    text-align: center;
+    padding: 6% 2%;
+    color: #C147E9;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    font-weight: 500;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
